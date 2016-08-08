@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+/**********************COMON**************************/
+
+span.nada {visibility: hidden; text-decoration: none; font-size: 1px; float: left;}
+#nada {text-decoration: none;}
+{
+	margin: 0;
+	padding: 0;
+}
+body{font-family:Arial,Verdana,sans-serif; font-size: 12px; text-align:left; margin-top:3px;
+	background:#fff; color:#000;
+	}
+img {margin:0;}
+#logo_golden{float: left;width: 253px; height: 141px; background:url(../img/logo.png) no-repeat;}
+#container_logo{width:967px; float: left;}
+#container {width: 967px; margin: 0 auto 0 auto;}
+#content {float: left; width: 967px; background: #fff; margin: 0px 0px 10px 0px; padding: 0px;}
+#contain_body {float: left; width: 967px;}
+#contain_left{float:left;width:687px;}
+
+.num_info{font-size: 15px; font-weight: bold;}
+#caja_contacto {width: 150px; height: 81px; float: right; text-align: right;margin:7px 10px 0 0;font-size:11px;}
+#caja_contacto p{color: #666; line-height: 17px;}
+#caja_contacto p a{font-size: 11px;text-align:center; color:#EA7500;}
+/************** CABECERA ******************/
+#content_buscar {float: right; width: 103px; border: 1px solid #000; margin-bottom: 7px;}
+#caja_busqueda {float: left; width: 82px; border: 0;font-size:11px;padding:3px 0 0 2px;}
+.boton_buscar {float: right;margin-top: 0px;text-decoration: none;}
+#headerGD ul#menu li.select a{color:#18989E; text-decoration: none; height: 29px; padding: 6px 8px 0 9px; }
+#headerGD ul#menu li a:hover {border-bottom:#ccc; text-decoration: none;}
+#headerGD {width: 967px; float: left; margin: 0;}
+#headerGD li {font-size: 16px;}
+#headerGD ul#menu{list-style: none; margin: 3px 0 0 0; padding: 0; width: 500px; float: left;}
+#headerGD ul#menu li{float: left; display: inline; padding: 6px 8px 0 9px; font-weight: bold; text-transform: uppercase; word-spacing:1px; 
+height: 29px; }
+#headerGD ul#menu li a{color: #333333; text-decoration: none;}
+/*****************************************************************************/
+/*#leftmenu {float:right;width:295px;background:#e5e5e5 url(/img/topbox.gif) no-repeat top;padding-top:14px;margin-top:15px;}
+#leftmenu h2 {font-size:16px;margin:0 4px;padding:0 10px;text-transform:uppercase;background-color:#fff;line-height:14px;}
+#leftmenu ul {list-style:none outside none;margin:0 4px;padding:15px 10px 0;background-color:#fff;}
+#leftmenu li {scroll 0 3px transparent;font-size:12px;line-height:13px;margin:0;padding:0 0 4px 10px;}
+#leftmenu  p.base {background:url(/img/cuadro_sup_borde_inf.gif) no-repeat bottom;padding:0 14px 5px 0px;margin:0;}
+#leftmenu .caja_bottom {background:url(/img/ayuda/cajabottom.gif) no-repeat bottom;height:8px;margin-top:-4px;}*/
+
+#caja_right {float:right;width:280px;background:url(/img/caja_border_bottomr.gif) no-repeat bottom #505050;padding-bottom:9px;}
+#caja_right h1 {background:url(/img/caja_border_topr.gif) no-repeat top;color:#000000;font-size:18px;line-height:18px;margin:0;padding:12px 14px 14px 13px;text-transform:uppercase;}
+#caja_right ul {list-style:none outside none;margin:0 4px;padding:15px 10px 0;}
+#caja_right li {scroll 0 3px transparent;font-size:12px;line-height:13px;margin:0;padding:0 0 4px 10px;}
+
+/**************************FEET****************************************/
+.separador_puntos {border: 0; padding: 5px 0 0;background:url(../img/dotted.gif) repeat-x left top; float: left; width: 967px; margin: 35px 0 0;}
+#content_pie {float: left; width: 967px; margin:0;font-size:11px;}
+#content_pie #careQuality img{float:right; margin-top:10px; }
+
+/********************* PAGE *****************/
+
+
+
+

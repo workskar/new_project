@@ -1,0 +1,40 @@
+// JavaScript Document
+$(document).ready(function(){
+    $("#click1").click(function(){						
+        $("#content1").show("slow");
+        $("#content2").hide("slow");
+        $("#content3").hide("slow");
+		$("#content4").hide("slow");
+		$("#content5").hide("slow");
+    });
+
+    $("#click2").click(function(){
+         $("#content2").show("slow");
+         $("#content1").hide("slow");
+         $("#content3").hide("slow");
+		 $("#content4").hide("slow");
+		 $("#content5").hide("slow");
+    });
+
+    $("#click3").click(function(){
+         $("#content3").show("slow");
+		 $("#content4").hide("slow");
+         $("#content2").hide("slow");
+         $("#content1").hide("slow");
+		 $("#content5").hide("slow");
+    });
+	$("#click4").click(function(){
+         $("#content4").show("slow");
+		 $("#content3").hide("slow");
+         $("#content2").hide("slow");
+         $("#content1").hide("slow");
+		 $("#content5").hide("slow");
+    });
+	$("#click5").click(function(){
+         $("#content5").show("slow");
+		 $("#content3").hide("slow");
+         $("#content2").hide("slow");
+         $("#content1").hide("slow");
+		 $("#content4").hide("slow");
+    });
+});

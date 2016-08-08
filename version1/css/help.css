@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+img {margin:0;}
+p {line-height: 14px;}
+.help a {color:#5B002E;}
+.help a:hover {color:#C10061;}
+.help a:selected {color:#FF46A3;}
+
+/*******************************ABOUTUS******************************************/
+.help #contain_body {float: left; width: 967px;}
+#contain_left{float:left;width:558px;margin-right:24px;}
+#content p {font-size: 12px; margin:15px 0 33px 9px;}
+#caja_right {float:right;width:374px;background:url(../img/caja_border_bottom.gif) no-repeat bottom #505050;padding-bottom:9px;}
+#caja_right h1 {background:url(../img/caja_border_top.gif) no-repeat top;color:#000000;font-size:18px;line-height:18px;margin:0;padding:12px 14px 14px 13px;text-transform:uppercase;}
+#caja_right p {color:#fff;margin:0 14px 13px;}
+.help #contain_left ul{list-style: none; margin: 3px 0 0 0; padding: 0; width: 500px; float: left;}
+.help #contain_left ul li{float: left; display: inline; padding: 6px 8px 0 9px; font-weight: bold; word-spacing: 1px; height: 29px; }
+
+

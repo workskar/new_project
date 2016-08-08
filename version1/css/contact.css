@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+img {margin:0;}
+p {line-height: 14px;}
+.contact a {color:#FF5B0D;}
+.contact a:hover {color: #EA7500;}
+.contact a:selected {color: #F93;}
+
+/*******************************CONTACT US******************************************/
+.img_cont{float:left;width:815px;height:195px;margin:0}
+.contact #contain_body {float: left; width: 967px;}
+#caja_right {float:right;width:374px;background:url(../img/caja_border_bottom.gif) no-repeat bottom #505050;}
+#caja_right h3 {background:url(../img/caja_border_top.gif) no-repeat top;color:#000000;font-size:18px;line-height:18px;margin:0;padding:12px 14px 13px 13px;text-transform:uppercase;}
+#caja_right p {color:#fff;margin:0 14px 11px;}
+#contact_us{float: left; width: 967px;background-color:#000;margin-bottom:10px;}
+#calender{float:right;width:145px;}
+#content_left{float:left;width:558px;margin-right:24px;height:auto;}
+#content_left h1{font-size: 20px; margin: 15px 0 5px 8px}
+#h2_subtitula3 {font-size: 12px; font-weight: normal; margin:15px 0 0 9px;line-height:14px;}
+#contain_left h2 {margin:0 0 14px 0;text-transform:uppercase;font-size:15px;border-bottom:1px solid #fff;padding-bottom:3px;}
+#contain_left p {margin:0 0 12px 0;font-size:11px;color:#999;}
+

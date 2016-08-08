@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+img {margin:0;}
+p {line-height: 14px;}
+.aboutus a {color:#FF5B0D;}
+.aboutus a:hover {color: #EA7500;}
+.aboutus a:selected {color: #F93;}
+
+/*******************************ABOUTUS******************************************/
+.aboutus #contain_body {float: left; width: 967px;}
+#contain_left{float:left;width:558px;margin-right:24px;}
+#content h1{font-size: 20px; margin: 15px 0 5px 8px}
+#content p {font-size: 12px; margin:15px 0 33px 9px;}
+#like_this{float:left;margin:8px 0 10px 10px;}
+#like_this h2{text-transform:uppercase;font-size:16px;margin:0;}
+#like_this p{font-size:11px;margin:7px 0 0 0;}
+#like_this .left{float:left;width:261px;margin-right:26px;}
+#like_this .right{float:right;width:261px;}
+
+#caja_right {float:right;width:374px;background:url(../img/caja_border_bottom.gif) no-repeat bottom #505050;padding-bottom:9px;}
+#caja_right h1 {background:url(../img/caja_border_top.gif) no-repeat top;color:#000000;font-size:18px;line-height:18px;margin:0;padding:12px 14px 14px 13px;text-transform:uppercase;}
+#caja_right p {color:#fff;margin:0 14px 13px;}
+#gallery {background-color:#fff;margin:17px 14px 8px 14px; padding: 2px 2px 5px 2px;text-align:center;color:#000;line-height:16px;}
+#gallery p{color:#000;margin: 0px 14px 0px 14px;height:25px;font-size:11px}
+.anterior{float:left;width:100px;margin-left:14px;}
+.siguiente{float:right;width:100px;text-align:right;margin-right:14px;}
+
+
+
+/***********************************HEAD*************************************************/
+
+
